@@ -28,7 +28,7 @@ Start the Django app
 $ python manage.py runserver
 ```
 
-Some of the Screen
+Screens
 
 ![student](https://user-images.githubusercontent.com/40248466/107156169-93c76680-699e-11eb-8642-70dc54bbf790.png)
 
