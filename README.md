@@ -6,7 +6,7 @@ First of all create virtual environment and activate it as follows:
 ```
 $ mkdir environments
 $ cd environments
-$ virtualenv -p python3 instagleo
+$ virtualenv -p python3 intagleo
 $ source intagleo/bin/activate
 ```
 
